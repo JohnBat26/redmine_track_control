@@ -1,8 +1,8 @@
 # English strings go here for Rails i18n
-en:
-  trackcontrol_create_tracker: "Create %{value} tracker"
-  notice_no_valid_trackers_available: "No valid trackers available. Please ask a Redmine administrator for assistance."
-  trackcontrol_tracker_not_allowed: "not allowed"
+ru:
+  trackcontrol_create_tracker: "Создавать трекер: %{value}"
+  notice_no_valid_trackers_available: "Нет доступных трекеров. Пожалуйста обратитесь к администратору написав письмо на e.batogov@cti.ru"
+  trackcontrol_tracker_not_allowed:  не позволяется"
   permission_create_tracker1: "Ошибка"
   permission_create_tracker2: "Изменение"
   permission_create_tracker3: "Поддержка"

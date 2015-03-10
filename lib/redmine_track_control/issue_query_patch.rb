@@ -9,7 +9,7 @@ module RedmineTrackControl
       base.class_eval do
       unloadable # Send unloadable so it will not be unloaded in development
 
-      alias_method_chain :available_filters, :trackcontrol
+      #alias_method_chain :available_filters, :trackcontrol
       end
     end
 
